@@ -1,0 +1,6 @@
+numpy==1.11.1
+Pint==0.7.2
+pymongo==3.3.0
+requests==2.11.1
+python_dateutil==2.5.3
+pyserial==3.1.1
