@@ -1,0 +1,9 @@
+{
+	"serial_device": "/dev/ttyACM0",
+	"use_mongo": true,
+	"mongo_url": "mongodb://user:password@localhost/db-name",
+	"mongo_db": "weather_collection",
+	"use_wunderground": true,
+	"wunderground_id": "KABCDEF123",
+	"wunderground_password": "randomchars"
+}
